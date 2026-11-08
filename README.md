@@ -9,6 +9,23 @@ qualify and draft outreach, and presents everything in one shareable app.
 Wanted postings → enrich → ICP score → Claude qualify (fit/maybe/no) → EN/KR outreach → platform + delivery sheet
 ```
 
+## My role — Sihun Jeon (전시훈)
+
+> This repository is a fork of the team repository [dlwogud/korea-leadgen](https://github.com/dlwogud/korea-leadgen),
+> built by a 5-person team during an overseas internship at Springboard Philippines (2026.06.25 – 07.17).
+
+I led the project overall within the 5-person team, and was responsible for:
+
+| Role | What it involved |
+|---|---|
+| **Overall leadership** | Coordinating the team's progress and integrating everyone's individual work into one platform |
+| **Planning & support** | Shaping the pipeline structure and screen design, supporting teammates |
+| **Documentation** | Writing up the pipeline flow, scoring logic, and other project explanations |
+| **UI/UX** | Designing the platform's 5 screens (Overview, Pipeline, KPI Funnel, Outreach Studio, Recommendation) |
+| **API integration** | Wiring up Wanted/Saramin data collection and the Anthropic Claude API |
+| **Feature development** | Building and improving individual pipeline stages |
+| **Presentation** | Delivered the capstone presentation in English |
+
 **Live demo:** https://dlwogud.github.io/km-platform-demo/
 
 ## The platform
